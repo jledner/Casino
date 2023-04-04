@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Roulette
   - BottomCard
+  - Interactable
   layers:
   - Default
   - TransparentFX
